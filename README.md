@@ -12,6 +12,6 @@ Data: http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html
 
 Wehbe, L., Murphy, B., Talukdar, P., Fyshe, A., Ramdas, A., & Mitchell, T. (2014). 
 Simultaneously uncovering the patterns of brain regions involved in different story reading subprocesses. 
-PloS one, 9(11), e112575.
+PloS one, 9(11), e112575. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112575
 
 Data: http://www.cs.cmu.edu/afs/cs/project/theo-73/www/plosone/
