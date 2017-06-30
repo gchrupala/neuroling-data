@@ -1,5 +1,4 @@
 # neuroling-data
-List of public neuroimaging datasets of language processing/production datasets
 
 ## The KARA ONE Database: Phonological Categories in imagined and articulated speech
 
