@@ -22,8 +22,8 @@ Type: fMRI
 
 Frank, S. L., Otten, L. J., Galli, G., & Vigliocco, G. (2015). The ERP response to the amount of information conveyed by words in sentences. Brain and language, 140, 1-11.
 
-Data: http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0093934X15001182/1-s2.0-S0093934X15001182-mmc1.zip/272554/html/S0093934X15001182/4f771baee965cc4e6d5d3f8fbca9a427/mmc1.zip
-Type: ERP?
+Data: http://ars.els-cdn.com/content/image/1-s2.0-S0093934X15001182-mmc1.zip
+Type: EEG
 
 ## "Before" and "after": Investigating the relationship between temporal connectives and chronological ordering using event-related potentials.
 
